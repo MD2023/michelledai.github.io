@@ -35,4 +35,4 @@ Now at Johns Hopkins University, I seek to take advantage of its robust medical 
   </div>
 </div>
 
-![Michelle with Cookie (a pug)](images/Michelle-Cookie.jpeg) ![Michelle at the Maryland State Fair](images/Michelle-state-fair.jpeg) ![Michelle with Mozart (a goldendoodle)](images/Michelle-Mozart.jpeg)
+![Michelle with Cookie (a pug)](../images/Michelle-Cookie.jpeg) ![Michelle at the Maryland State Fair](../images/Michelle-state-fair.jpeg) ![Michelle with Mozart (a goldendoodle)](../images/Michelle-Mozart.jpeg)
