@@ -15,7 +15,7 @@ Now at Johns Hopkins University, I seek to take advantage of its robust medical 
 
 <div style="display: flex; justify-content: space-around;">
   <div>
-    <h4>Research Interests</h4>
+    <h2>Research Interests</h2>
     <ul>
       <li>Large Language Models (LLMs)</li>
       <li>Time Series Data</li>
@@ -24,7 +24,7 @@ Now at Johns Hopkins University, I seek to take advantage of its robust medical 
     </ul>
   </div>
   <div>
-    <h4>Hobbies</h4>
+    <h2>Hobbies</h2>
     <ul>
       <li>Distance running</li>
       <li>Knitting and crocheting</li>
